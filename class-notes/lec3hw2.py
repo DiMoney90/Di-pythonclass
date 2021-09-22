@@ -19,8 +19,11 @@ print(message.upper())
 
 x = "Hello World"
 def turnUpperCase(x):
-    if isupper(x):
+    if x.isupper():
         return x
 
     else:
        print(x.upper())
+       return x.upper()
+x1 = turnUpperCase(x)
+print(x1)

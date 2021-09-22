@@ -62,6 +62,3 @@ print("w".join("hello"))
 # If x ends with an exclamation point, print “is an excited comment”.
 # If there are any special characters in the string (special characters are # ! & in this example),
 # print “there are special characters (#,!,&)in the string”. (same link under “Testing”).
-
-def myFunc():
-    if
